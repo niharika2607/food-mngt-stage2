@@ -1,1 +1,1 @@
-# food-mngt-stage2
+# MyAppStage2
